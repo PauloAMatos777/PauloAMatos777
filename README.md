@@ -1,5 +1,4 @@
-<img width="1920" height="732" alt="image" src="<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/1f35f587-c2ab-4398-bdee-1003d0823c77" />
-" />
+<img width="1920" height="732" alt="image" src="https://github.com/user-attachments/assets/b2b6a57b-4696-460b-9748-16dbbe30259e" />
 Hi there 👋, My name is Paulo. 
 I'm computer engineer 
 📫 How to reach me? rodolfo.amatos@yahoo.com.br
